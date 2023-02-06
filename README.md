@@ -10,18 +10,18 @@ I will be getting infomation regarding the following;Title, year, tconst(unique 
 I will be focusing on both domestic and foreign gross for this analysis in order to get an understanding not only locally but also internationally
 
 ###### What questions were asked during the analytics process?
-*What genres of movie are likely to succeed?
-*Do multiple genre movies perform better than single genre movies?
-*Is there a correlation between how movies perform domestically and internationally?
-*Is there a correlation between how long a movie is run and how it is rated?
-*Does the studio producing a movie determine how much gross the movie makes?
+* What genres of movie are likely to succeed?
+* Do multiple genre movies perform better than single genre movies?
+* Is there a correlation between how movies perform domestically and internationally?
+* Is there a correlation between how long a movie is run and how it is rated?
+* Does the studio producing a movie determine how much gross the movie makes?
 
 ### The following steps were used in the analysis
-*Data Extraction
-*Data Cleaning
-*Data Wrangling
-*Data Analysis
-*Action
+* Data Extraction
+* Data Cleaning
+* Data Wrangling
+* Data Analysis
+* Action
 
 ### Data Extraction 
 The following csv files were extracted for this analysis
@@ -32,28 +32,29 @@ The following csv files were extracted for this analysis
 
 ### Data cleaning
 The following unclean data was dealt with using appropriate methods
-*Missing Data
-*Wrong Data Types
-*Outliers and non relevant data
-*Duplicates
+* Missing Data
+* Wrong Data Types
+* Outliers and non relevant data
+* Duplicates
 
 Methods applied during cleaning of this data include
-*Dropping missing values
-*Using mean to fill in missing values
+* Dropping missing values
+* Using mean to fill in missing values
+
 ![Uploading image.png…]()
 
-*Assigning appropriate data types 
-*Dropping duplicated values and columns
+* Assigning appropriate data types 
+* Dropping duplicated values and columns
 
 ### Data Wrangling
 In this step various methods were applied in order to make the data better for analysis and visualisation.
 Merging Data to form one data frame
 ![Uploading image.png…]()
 
-Combining Data
-Joining Data
-Indexing Data
-Dealing with Categorical Data
+* Combining Data
+* Joining Data
+* Indexing Data
+* Dealing with Categorical Data
 
 
 ### Data Analysis
@@ -67,8 +68,8 @@ Seaborn was used to visualise the various statitistical visualization models
 From the visualizations various ctions were established to help Microsoft movie studio come up with a succesful movie studio 
 
 Various actions were established to propell the success of the movie studio but few will be highlighted. They are:
-#####*At the beginning, Microsoft should focus on genres News, Documentary and music as they have the highest individual ratings
-#####*Microsoft should produce movies that  have multiple genres instead of one as they're more succesful and have a higher rating.
+#####* At the beginning, Microsoft should focus on genres News, Documentary and music as they have the highest individual ratings
+#####* Microsoft should produce movies that  have multiple genres instead of one as they're more succesful and have a higher rating.
 
 
 ## Summary
