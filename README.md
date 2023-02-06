@@ -1,4 +1,4 @@
-#Ivy Phase 1 Project
+### Ivy Phase 1 Project
 
 ### Business Problem
 
@@ -9,28 +9,28 @@ In the following analysis, I will be exploring data from IMDB and the BOM .
 I will be getting infomation regarding the following;Title, year, tconst(unique movie identifier),studio, domestic gross, foreign gross, average rating, number of votes and the movie genres
 I will be focusing on both domestic and foreign gross for this analysis in order to get an understanding not only locally but also internationally
 
-##What questions were asked during the analytics proces?
+###### What questions were asked during the analytics process?
 *What genres of movie are likely to succeed?
 *Do multiple genre movies perform better than single genre movies?
 *Is there a correlation between how movies perform domestically and internationally?
 *Is there a correlation between how long a movie is run and how it is rated?
 *Does the studio producing a movie determine how much gross the movie makes?
 
-###The following steps were used in the analysis
+### The following steps were used in the analysis
 *Data Extraction
 *Data Cleaning
 *Data Wrangling
 *Data Analysis
 *Action
 
-#Data Extraction 
+### Data Extraction 
 The following csv files were extracted for this analysis
 
 * imdb.title.basics.gz
 * imdb.title.ratings.gz
 * bom.movie_gross.gz
 
-#Data cleaning
+### Data cleaning
 The following unclean data was dealt with using appropriate methods
 *Missing Data
 *Wrong Data Types
@@ -45,7 +45,7 @@ Methods applied during cleaning of this data include
 *Assigning appropriate data types 
 *Dropping duplicated values and columns
 
-#Data Wrangling
+### Data Wrangling
 In this step various methods were applied in order to make the data better for analysis and visualisation.
 Merging Data to form one data frame
 ![Uploading image.png…]()
@@ -56,14 +56,14 @@ Indexing Data
 Dealing with Categorical Data
 
 
-#Data Analysis
+### Data Analysis
 Appropriate methods were applied in order to come up with various models and visualizations that will be used for coming up with appropriate actions to be undertaken by Microsoft movie studio before unveilling
 Seaborn was used to visualise the various statitistical visualization models
 ![Uploading image.png…]()
 
 
 
-#Action
+### Action
 From the visualizations various ctions were established to help Microsoft movie studio come up with a succesful movie studio 
 
 Various actions were established to propell the success of the movie studio but few will be highlighted. They are:
