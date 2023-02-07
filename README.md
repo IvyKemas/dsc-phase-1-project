@@ -68,8 +68,8 @@ Seaborn was used to visualise the various statitistical visualization models
 From the visualizations various ctions were established to help Microsoft movie studio come up with a succesful movie studio 
 
 Various actions were established to propell the success of the movie studio but few will be highlighted. They are:
-#####* At the beginning, Microsoft should focus on genres News, Documentary and music as they have the highest individual ratings
-#####* Microsoft should produce movies that  have multiple genres instead of one as they're more succesful and have a higher rating.
+* At the beginning, Microsoft should focus on genres News, Documentary and music as they have the highest individual ratings
+* Microsoft should produce movies that  have multiple genres instead of one as they're more succesful and have a higher rating.
 
 
 ## Summary
@@ -77,5 +77,5 @@ Various actions were established to propell the success of the movie studio but 
 To propell the success of Microsoft as they are unveiling their new movie studio , Data from three data sets was extracted, The data sets then underwent cleaning then wrangling . After wrangling the Data was used to create various statistical models and visualizations in order to establish appropriate actions to be undertook by microsoft in their making of the movie Studio. Various actions were suggested and business recommendations were yielded in the process.
 
 ## Conclusion
-Even though there is no particular set step when it comes to making a MOvie Studio it is paramount that the steps taken yield profits and positive reception from the audiences. It therefore imporant that Microsoft movie studios start with genres that have a high rating as it is a clear indication of positive response from the audience. it is also important  that the movies produced by microsoft studios should have a variety of genres per movie to ensure that these movies are more engaging 
+Even though there is no particular set step when it comes to making a Movie Studio it is paramount that the steps taken yield profits and positive reception from the audiences. It therefore imporant that Microsoft movie studios start with genres that have a high rating as it is a clear indication of positive response from the audience. it is also important  that the movies produced by microsoft studios should have a variety of genres per movie to ensure that these movies are more engaging 
 Microsoft Movie Studio should also focus on intricacies such as how long the movie runs and how well it perfoms locally before it does internationally . Micrsoft movie studio should also focus on what makes some movie studios stand out that their movies are easily receptible and have higher ratings. It is not impossible to make a breakthrough with the movie studio, however focusing on the data is a good start to realize the success of the movie studio.
